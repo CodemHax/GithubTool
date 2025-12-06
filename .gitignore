@@ -1,0 +1,8 @@
+*.json
+github_cache.json
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.idea/
+
